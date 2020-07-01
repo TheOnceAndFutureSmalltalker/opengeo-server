@@ -18,7 +18,7 @@ Make sure each of the following is installed.
 
 [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 
-Make sure envirionment variable JAVA_HOME points to JDK 8 installation folder by running the following.
+Make sure environment variable JAVA_HOME points to JDK 8 installation folder by running the following.
 ```
 % echo %JAVA_HOME%
 C:\Program Files\AdoptOpenJDK\jdk-8.0.252.09-hotspot
