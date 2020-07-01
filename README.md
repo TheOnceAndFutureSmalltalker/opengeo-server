@@ -4,7 +4,7 @@ This contains setup information and file changes for all of the server component
 
 
 ### Dependencies
-aMke sure each of the following is installed.
+Make sure each of the following is installed.
 
 [Java JDK 8.0](https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot)
 
