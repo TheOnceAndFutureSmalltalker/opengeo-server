@@ -3,7 +3,7 @@
 This contains setup information and file changes for all of the server components for opengeo.
 
 
-### Dependencies
+## Dependencies
 Make sure each of the following is installed.
 
 [Java JDK 8.0](https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot)
@@ -26,10 +26,10 @@ C:\Program Files\AdoptOpenJDK\jdk-8.0.252.09-hotspot
 
 
 
-### Maven Setup
+## Maven Setup
 Replace the `settings.xml` file with the one provided in this repository `maven\settings.xml`
 
-### Build Database
+## Build Database
 
 1. Open Management Studio 
 
@@ -69,7 +69,7 @@ NOTE:  You can skip the tests with.
 % mvn clean install -DskipTests
 ```
 
-# Install and Build geoserver
+## Install and Build geoserver
 
 1. Clone latest geoserver repository
 ```
